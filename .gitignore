@@ -5,4 +5,5 @@ Homestead.json
 .env
 .buildpath
 .project
+composer.lock
 .settings/
